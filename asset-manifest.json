@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/yashlone04/React-Application/static/css/main.673ef6e8.css",
-    "main.js": "/yashlone04/React-Application/static/js/main.3d52e558.js",
-    "static/media/logo.svg": "/yashlone04/React-Application/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/yashlone04/React-Application/index.html",
-    "main.673ef6e8.css.map": "/yashlone04/React-Application/static/css/main.673ef6e8.css.map",
-    "main.3d52e558.js.map": "/yashlone04/React-Application/static/js/main.3d52e558.js.map"
+    "main.css": "/yashlone04/React-Application2/static/css/main.673ef6e8.css",
+    "main.js": "/yashlone04/React-Application2/static/js/main.e11dfb6a.js",
+    "static/media/logo.svg": "/yashlone04/React-Application2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yashlone04/React-Application2/index.html",
+    "main.673ef6e8.css.map": "/yashlone04/React-Application2/static/css/main.673ef6e8.css.map",
+    "main.e11dfb6a.js.map": "/yashlone04/React-Application2/static/js/main.e11dfb6a.js.map"
   },
   "entrypoints": [
     "static/css/main.673ef6e8.css",
-    "static/js/main.3d52e558.js"
+    "static/js/main.e11dfb6a.js"
   ]
 }
